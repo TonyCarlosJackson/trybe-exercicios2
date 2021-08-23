@@ -5,4 +5,7 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
+- trybe-skills-updates
 - JavaScript
+- React
+- trybe-skills-changes
